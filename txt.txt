@@ -10,4 +10,6 @@ cd
 npm install
 npm start
 
-test commit
+ git commit -a -m "test"
+
+git push --set-upstream https://github.com/hoanganhtrans2/cbthi.git master
